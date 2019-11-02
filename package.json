@@ -1,14 +1,15 @@
 {
   "name": "@sharadbrat/randomizer",
   "version": "0.0.1",
+  "private": false,
   "description": "Library with helper methods to work with weighted random.",
   "main": "index.js",
   "author": "sharadbrat",
   "license": "MIT",
   "keywords": [
     "random",
-    "weighted random",
-    "weight random"
+    "weighted",
+    "weight"
   ],
   "homepage": "https://github.com/sharadbrat/randomizer#readme",
   "repository": {

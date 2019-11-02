@@ -4,7 +4,7 @@ Tiny library that provides simple API for weighted random. It works like that:
 
 ![Illustration of the workflow](illustration.png "Illustration")
 
-### Start
+## Start
 
 Install dependency:
 
