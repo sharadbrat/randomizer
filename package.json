@@ -11,6 +11,7 @@
     "weighted",
     "weight"
   ],
+
   "homepage": "https://github.com/sharadbrat/randomizer#readme",
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   "bugs": {
     "url": "https://github.com/sharadbrat/randomizer/issues"
   },
+
   "scripts": {
     "test": "mocha"
   },
