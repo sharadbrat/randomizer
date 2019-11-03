@@ -1,7 +1,6 @@
 {
   "name": "@sharadbrat/randomizer",
-  "version": "0.0.1",
-  "private": false,
+  "version": "0.0.2",
   "description": "Library with helper methods to work with weighted random.",
   "main": "index.js",
   "author": "sharadbrat",
